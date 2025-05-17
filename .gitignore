@@ -1,0 +1,22 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.log
+*.obj
+*.exe
+*.dll
+*.idb
+*.ipch
+*.log
+*.tlog
+*.lastbuildstate
+*.swp
+*.tmp
+*.csproj.user
+*.VC.db
+*.VC.opendb
+*.sqlite3
