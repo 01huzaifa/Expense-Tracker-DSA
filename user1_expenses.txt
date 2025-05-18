@@ -1,0 +1,70 @@
+Rent Payment,850.00,Rent,2024-02-01
+Rent Payment,850.00,Rent,2024-03-01
+Rent Payment,850.00,Rent,2024-04-01
+Savings Deposit,500.00,Savings,2024-01-12
+Hotel Booking,500.00,Travel,2024-02-18
+Flight to Paris,300.00,Travel,2024-01-04
+Emergency Fund,300.00,Savings,2024-02-22
+Health Insurance,300.00,Insurance,2024-03-29
+Doctor Visit,200.00,Healthcare,2024-01-03
+Doctor Visit,200.00,Healthcare,2024-01-03
+Doctor Visit,200.00,Healthcare,2024-01-03
+Life Insurance,200.00,Insurance,2024-04-19
+Life Insurance,200.00,Insurance,2024-04-19
+Online Course Fee,150.00,Education,2024-01-09
+Home Insurance,150.00,Insurance,2024-02-17
+Home Insurance,150.00,Insurance,2024-02-17
+Dental Checkup,150.00,Healthcare,2024-03-13
+Car Rental,150.00,Travel,2024-04-26
+Car Rental,150.00,Travel,2024-04-26
+Electricity Bill,120.75,Utilities,2024-01-07
+Electricity Bill,120.75,Utilities,2024-01-07
+Electricity Bill,120.75,Utilities,2024-01-07
+Clothes Shopping,120.50,Shopping,2024-02-21
+Clothes Shopping,120.50,Shopping,2024-02-21
+Concert Tickets,120.00,Entertainment,2024-02-14
+Concert Tickets,120.00,Entertainment,2024-02-14
+Charity Donation,100.00,Miscellaneous,2024-02-19
+Workshop Registration,100.00,Education,2024-03-25
+Therapy Session,100.00,Healthcare,2024-05-05
+Birthday Dinner,90.00,Dining,2024-05-10
+Dinner at Restaurant,75.30,Dining,2024-01-02
+Repair Services,75.00,Miscellaneous,2024-05-25
+New Shoes,60.00,Shopping,2024-01-10
+Books Purchase,60.00,Education,2024-02-20
+Internet Bill,60.00,Utilities,2024-03-05
+Internet Bill,60.00,Utilities,2024-03-05
+Theater Play,60.00,Entertainment,2024-05-18
+Bus Tour,60.00,Travel,2024-05-30
+Train Ticket,50.75,Transportation,2024-03-18
+Pharmacy Purchase,50.00,Healthcare,2024-02-09
+Pharmacy Purchase,50.00,Healthcare,2024-02-09
+Gasoline,45.60,Transportation,2024-04-25
+Gasoline,45.60,Transportation,2024-04-25
+Water Bill,45.25,Utilities,2024-02-11
+Water Bill,45.25,Utilities,2024-02-11
+Gift Purchase,45.00,Shopping,2024-05-12
+Gift Purchase,45.00,Shopping,2024-05-12
+Gift Purchase,45.00,Shopping,2024-05-12
+Movie Tickets,40.00,Entertainment,2024-01-08
+Gym Membership,40.00,Subscriptions,2024-02-15
+Lunch with Friends,40.00,Dining,2024-03-22
+Lunch with Friends,40.00,Dining,2024-03-22
+Lunch with Friends,40.00,Dining,2024-03-22
+Lunch with Friends,40.00,Dining,2024-03-22
+Lunch with Friends,40.00,Dining,2024-03-22
+Pet Supplies,30.00,Miscellaneous,2024-03-11
+Fast Food Takeout,25.75,Dining,2024-02-08
+Fast Food Takeout,25.75,Dining,2024-02-08
+Gift for Friend,25.00,Miscellaneous,2024-01-11
+Bowling Night,25.00,Entertainment,2024-03-20
+Bowling Night,25.00,Entertainment,2024-03-20
+Magazine Subscription,20.00,Subscriptions,2024-03-07
+Magazine Subscription,20.00,Subscriptions,2024-03-07
+Stationery,20.00,Education,2024-05-23
+Coffee Shop,15.50,Dining,2024-04-14
+Bus Ticket,15.00,Transportation,2024-01-06
+Netflix Subscription,12.99,Subscriptions,2024-01-05
+Cloud Storage,10.00,Subscriptions,2024-04-05
+Music Streaming,9.99,Subscriptions,2024-05-14
+Music Streaming,9.99,Subscriptions,2024-05-14

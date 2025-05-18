@@ -1,0 +1,44 @@
+Home Security,180.00,Insurance,2024-08-22  
+Photography Workshop,120.00,Education,2024-08-20  
+Charity Donation,100.00,Miscellaneous,2024-08-15  
+Flight to Rome,400.00,Travel,2024-08-15  
+Hotel Stay,520.00,Travel,2024-08-11  
+Internet Upgrade,70.00,Utilities,2024-08-10  
+Museum Visit,45.00,Entertainment,2024-08-08  
+Flower Arrangement,45.00,Miscellaneous,2024-08-05  
+Lunch Date,50.00,Dining,2024-08-05  
+Streaming Service Upgrade,14.99,Subscriptions,2024-08-02  
+Dinner with Family,120.00,Dining,2024-08-01  
+Music Festival Tickets,150.00,Entertainment,2024-08-01  
+Health Supplement,35.00,Healthcare,2024-07-30  
+Car Maintenance,200.00,Transportation,2024-07-22  
+Yoga Classes,75.00,Healthcare,2024-07-20  
+Laptop Repair,150.00,Education,2024-07-20  
+Weekend Retreat,400.00,Travel,2024-07-20  
+Online Training,100.00,Education,2024-07-17  
+Dinner Party,85.00,Dining,2024-07-16  
+New Backpack,30.00,Education,2024-07-15  
+Monthly Gym Pass,50.00,Subscriptions,2024-07-12  
+Gym Equipment,300.00,Healthcare,2024-07-12  
+House Cleaning Service,65.00,Miscellaneous,2024-07-10  
+Wedding Gift,120.00,Miscellaneous,2024-07-10  
+Hiking Gear,150.00,Shopping,2024-07-10  
+New Mattress,600.00,Shopping,2024-07-09  
+Car Insurance,180.00,Insurance,2024-07-08  
+Library Membership,10.00,Education,2024-07-05  
+Train Pass,65.00,Transportation,2024-07-03  
+Bus Ticket,18.50,Transportation,2024-07-02  
+Yearly Rent Payment,950.00,Rent,2024-07-01  
+Art Supplies,70.00,Education,2024-06-30  
+Bus Tour,90.00,Travel,2024-06-30  
+Gasoline,48.50,Transportation,2024-06-29  
+Theater Tickets,80.00,Entertainment,2024-06-28  
+Parking Fee,20.00,Miscellaneous,2024-06-25  
+Outdoor Camping Gear,250.00,Shopping,2024-06-24  
+Pet Grooming,40.00,Miscellaneous,2024-06-22  
+Pet Vaccination,90.00,Healthcare,2024-06-22  
+New Phone Charger,25.00,Shopping,2024-06-15  
+Grocery Shopping,25.00,Shopping,2024-06-12  
+Savings Contribution,450.00,Savings,2024-06-12  
+Coffee Subscription,15.99,Subscriptions,2024-06-10  
+Electricity Bill,130.75,Utilities,2024-06-05  
